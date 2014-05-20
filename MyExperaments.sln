@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS", "RSS\RSS.csproj", "{FFBC3177-1676-4974-8174-0018ADCB2907}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL", "SQL\SQL.csproj", "{A79C0F64-9074-401C-A5F9-C7F7426088D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,16 @@ Global
 		{FFBC3177-1676-4974-8174-0018ADCB2907}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{FFBC3177-1676-4974-8174-0018ADCB2907}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{FFBC3177-1676-4974-8174-0018ADCB2907}.Release|x86.ActiveCfg = Release|Any CPU
+		{A79C0F64-9074-401C-A5F9-C7F7426088D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79C0F64-9074-401C-A5F9-C7F7426088D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79C0F64-9074-401C-A5F9-C7F7426088D0}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A79C0F64-9074-401C-A5F9-C7F7426088D0}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A79C0F64-9074-401C-A5F9-C7F7426088D0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A79C0F64-9074-401C-A5F9-C7F7426088D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79C0F64-9074-401C-A5F9-C7F7426088D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79C0F64-9074-401C-A5F9-C7F7426088D0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A79C0F64-9074-401C-A5F9-C7F7426088D0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A79C0F64-9074-401C-A5F9-C7F7426088D0}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
