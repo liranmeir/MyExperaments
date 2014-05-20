@@ -1,0 +1,18 @@
+﻿@model IEnumerable<RSS.Models.Rss>
+
+<ul>
+@foreach (var r in Model)
+{
+    <li>
+        <div>
+            @Html.Raw( r.Description )
+        </div>
+        <div>
+            @Html.Raw( r.Title )
+        </div>
+        <div>
+            @Html.Raw( r.Link )
+        </div>
+    </li>
+}
+</ul> 
